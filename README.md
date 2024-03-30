@@ -1,14 +1,16 @@
-### Olá! Eu sou o Thiago 💻 | Hello! I'm Thiago 💻
+![Great Gatsby Header](https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header)
 
-<center>
-  
-🐍Python🐍
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&center=true&width=435&lines=Welcome,+Mates!;I'm+Caesar;A+Python+Developer!;Glad+you're+here!)](https://git.io/typing-svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesarThiago&theme=tokyonight)
+<div align="center">
+  <img width="850em" src="https://github-readme-activity-graph.vercel.app/graph?username=caesarThiago&bg_color=0d1117&color=6e40c9&line=6e40c9&point=6e40c9&area=true&hide_border=true">
+</div>
+
+<div>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarThiago&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
 <hr/>
-
-
 
 <h2>(English 🇬🇧)</h2>
 
